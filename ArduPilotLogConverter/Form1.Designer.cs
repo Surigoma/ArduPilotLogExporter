@@ -59,7 +59,6 @@
             this.infilePathBox.Name = "infilePathBox";
             this.infilePathBox.Size = new System.Drawing.Size(659, 19);
             this.infilePathBox.TabIndex = 0;
-            this.infilePathBox.Text = "C:\\Users\\surigoma\\Downloads\\roll_pitch.log";
             // 
             // label1
             // 
@@ -222,7 +221,6 @@
             this.outfilePathBox.Name = "outfilePathBox";
             this.outfilePathBox.Size = new System.Drawing.Size(659, 19);
             this.outfilePathBox.TabIndex = 0;
-            this.outfilePathBox.Text = "C:\\Users\\surigoma\\Desktop\\testout.csv";
             // 
             // saveFileSelectButton
             // 
