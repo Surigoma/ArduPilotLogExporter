@@ -245,7 +245,7 @@
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
-            this.Text = "ArduPilotLogConvert";
+            this.Text = "ArduPilotLogConverter -Version. Alpha-";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
